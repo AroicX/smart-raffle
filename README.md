@@ -39,7 +39,7 @@ Checkout the full blockchain course video [here.](https://www.youtube.com/watch?
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc
+git clone https://github.com/aroicx/smart-raffle 
 cd hardhat-smartcontract-lottery-fcc
 yarn
 ```
@@ -119,7 +119,6 @@ Go back to [vrf.chain.link](https://vrf.chain.link) and under your subscription 
 
 Go to [keepers.chain.link](https://keepers.chain.link/new) and register a new upkeep. Choose `Custom logic` as your trigger mechanism for automation. Your UI will look something like this once completed:
 
-![Keepers](./img/keepers.png)
 
 6. Enter your raffle!
 
